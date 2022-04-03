@@ -8,5 +8,5 @@ I wrote this project for mid term exam
 Used C#
 This is a Login and Register page
 
-<img src="Снимок экрана (2).png" width="200" height="50"/>
+<img src="Снимок экрана (2).png"/>
 
